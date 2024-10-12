@@ -1,4 +1,4 @@
-# 🤖 Langchain Agents - Dynamic Information Retrieval
+# Langchain Agents - Dynamic Information Retrieval
 
 ## Table of Contents
 
